@@ -1,6 +1,6 @@
 # 🚀 LinkedIn Auto Withdraw Invitations Script
 
-A simple JavaScript automation script to **withdraw all pending LinkedIn invitations** with a single execution. This script helps you **save time, reduce manual effort, and clean up your network efficiently**.
+A simple JavaScript automation script to **withdraw all pending Sent LinkedIn Connection invitations** with a single execution. This script helps you **save time, reduce manual effort, and clean up your network efficiently**.
 
 ## 📌 Features
 
