@@ -22,7 +22,7 @@ A simple JavaScript automation script to **withdraw all pending Sent LinkedIn Co
 ### 1️⃣ Open the Sent Invitations Page
 Go to **[LinkedIn Sent Invitations](https://www.linkedin.com/mynetwork/invitation-manager/sent/)**.
 
-### 2️⃣ Scroll to Load All Invitations (You Can SKIP this Step..)
+### 2️⃣ Scroll to Load All Invitations (Optional)
 Manually scroll down to load all pending connection requests.
 
 ### 3️⃣ Open Developer Console
